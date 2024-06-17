@@ -18,51 +18,38 @@ We are a dynamic company specializing in web and mobile application development,
 
 ### Programming Languages
 
-- **JavaScript (JS)**: Versatile language for both client-side and server-side development.
-- **PHP**: Robust language for server-side scripting.
-- **C, C++, C#**: Powerful languages for system and application software.
-- **JSX**: Syntax extension for React development.
-- **HTML, CSS, SCSS**: Core technologies for web development.
-- **XML**: Markup language for data representation.
+| Languages         | Description                                              |
+|-------------------|----------------------------------------------------------|
+| JavaScript (JS)   | Versatile language for both client-side and server-side development. |
+| PHP               | Robust language for server-side scripting.               |
+| C, C++, C#        | Powerful languages for system and application software.  |
+| JSX               | Syntax extension for React development.                  |
+| HTML, CSS, SCSS   | Core technologies for web development.                   |
+| XML               | Markup language for data representation.                 |
 
 ### Frameworks and Technologies
 
-#### PHP Frameworks
-- **Laravel**: Elegant PHP framework for web artisans.
-- **Symfony**: High-performance PHP framework for web applications.
-- **CodeIgniter**: Lightweight PHP framework for rapid development.
-- **Zend Framework**: Robust framework for enterprise-level applications.
-- **CakePHP**: Framework offering a flexible database access layer.
-- **Yii**: High-performance PHP framework for web applications.
-
-#### C# Frameworks
-- **.NET**: Comprehensive framework for building a wide range of applications.
-- **ASP.NET Core**: Open-source framework for building modern web applications.
-- **ASP.NET MVC**: Framework for building scalable and maintainable web applications.
-- **Blazor**: Framework for building interactive web UIs using C#.
-- **Entity Framework**: ORM framework for working with databases using .NET.
-
-#### JavaScript Frameworks
-- **React, React JS**: Popular library for building user interfaces.
-- **Vue.js**: Progressive JavaScript framework for building user interfaces.
-- **Angular**: Platform for building mobile and desktop web applications.
-- **Node.js**: JavaScript runtime for scalable network applications.
-- **Express.js**: Fast, unopinionated, minimalist web framework for Node.js.
-- **Next.js**: React framework for server-rendered applications and static websites.
-- **Nuxt.js**: Framework for creating Vue.js applications with server-side rendering.
-- **Svelte**: Compiler that generates minimal and optimized JavaScript code.
+| PHP Frameworks    | C# Frameworks           | JavaScript Frameworks  |
+|-------------------|-------------------------|-------------------------|
+| Laravel           | .NET                    | React, React JS         |
+| Symfony           | ASP.NET Core            | Vue.js                  |
+| CodeIgniter       | ASP.NET MVC             | Angular                 |
+| Zend Framework    | Blazor                  | Node.js                 |
+| CakePHP           | Entity Framework        | Express.js              |
+| Yii               |                         | Next.js                 |
+|                   |                         | Nuxt.js                 |
+|                   |                         | Svelte                  |
 
 ### Databases and Cloud Services
 
-- **Oracle**: Powerful database management system.
-- **SQL Server**: Microsoft’s relational database management system.
-- **MySQL**: Widely-used open-source relational database management system.
-- **PostgreSQL**: Advanced open-source relational database.
-- **MongoDB**: NoSQL database for modern applications.
-- **Firebase**: Platform developed by Google for creating mobile and web applications.
-- **AWS (Amazon Web Services)**: Comprehensive and widely adopted cloud platform.
-- **Google Cloud**: Suite of cloud computing services by Google.
-- **Azure**: Microsoft’s cloud computing platform.
+| Databases         | Cloud Services          |
+|-------------------|-------------------------|
+| Oracle            | AWS (Amazon Web Services)|
+| SQL Server        | Google Cloud            |
+| MySQL             | Azure                   |
+| PostgreSQL        |                         |
+| MongoDB           |                         |
+| Firebase          |                         |
 
 ## Our Team
 
