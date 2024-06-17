@@ -80,7 +80,7 @@ We take pride in our diverse portfolio of projects, which includes:
 
 ## Contact Us
 
-For more information or to discuss your project, feel free to contact us via our [website](https://www.blyd3d.com) or email us at [contact@ahime.com](mailto:info@blyd3d.com).
+For more information or to discuss your project, feel free to contact us via our [website](https://www.blyd3d.com) or email us at [info@blyd3d.com](mailto:info@blyd3d.com).
 
 ---
 
